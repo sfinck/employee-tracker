@@ -1,5 +1,5 @@
 # Employee-Tracker
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description 
 
@@ -9,7 +9,6 @@ The employee tracker is an applicaiton for business owners to add departments, r
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
 
 
