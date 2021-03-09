@@ -59,6 +59,8 @@ Delivery Options:
 
 * Use [console.table](https://www.npmjs.com/package/console.table) to print MySQL rows to the console. There is a built-in version of `console.table`, but the NPM package formats the data a little better for our purposes.
 
+* Use [dotenv](https://www.npmjs.com/package/dotenv) NPM package to separate your password from your source code. 
+
 ## Usage
 
 The following gif displays how the application is ran:
